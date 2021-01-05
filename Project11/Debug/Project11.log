@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+C:\Users\Ellen Beatriz Soares\source\repos\Project11\Project11\Origem.cpp(72,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Ellen Beatriz Soares\source\repos\Project11\Project11\Origem.cpp(72,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+C:\Users\Ellen Beatriz Soares\source\repos\Project11\Project11\Origem.cpp(72,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+C:\Users\Ellen Beatriz Soares\source\repos\Project11\Project11\Origem.cpp(72,12): message : esse argumento é usado como um tamanho do buffer
+  Project11.vcxproj -> C:\Users\Ellen Beatriz Soares\source\repos\Project11\Debug\Project11.exe
